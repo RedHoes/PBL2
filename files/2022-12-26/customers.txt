@@ -1,0 +1,2 @@
+Customer [Id: 17389, Ten: Le Trung Dong, SDT: 0928241293, So CMND: 191920321, PassengerCar_id: 46]
+Customer [Id: 12834, Ten: Nguyen Van Hoang, SDT: 0837161234, So CMND: 191974115, PassengerCar_id: 46]

@@ -1,0 +1,1 @@
+PassengerCar [Id: 779, Bien So: 43A-24232, Gio Xuat ben: 7:30, gio ve ben: 15:30, So cho: 45, So cho da book: 0, So cho con lai: 45]

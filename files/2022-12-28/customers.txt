@@ -1,0 +1,1 @@
+Customer [Id: 28420, Ten: 1, SDT: 2, So CMND: 3, PassengerCar_id: 355]

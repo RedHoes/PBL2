@@ -1,0 +1,3 @@
+PassengerCar [Id: 966, Bien So: 30A-94853, Gio Xuat ben: 11:00, gio ve ben: 23:00, So cho: 40, So cho da book: 0, So cho con lai: 40]
+PassengerCar [Id: 891, Bien So: 77A-27423, Gio Xuat ben: 13:00, gio ve ben: 19:30, So cho: 30, So cho da book: 0, So cho con lai: 30]
+PassengerCar [Id: 829, Bien So: 43A-19283, Gio Xuat ben: 7:00, gio ve ben: 17:00, So cho: 45, So cho da book: 0, So cho con lai: 45]

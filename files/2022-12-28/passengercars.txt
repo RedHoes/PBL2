@@ -1,0 +1,1 @@
+PassengerCar [Id: 355, Bien So: 2, Gio Xuat ben: 2, gio ve ben: 2, So cho: 2, So cho da book: 1, So cho con lai: 1]
